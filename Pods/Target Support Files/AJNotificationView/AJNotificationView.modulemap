@@ -1,6 +1,0 @@
-framework module AJNotificationView {
-  umbrella header "AJNotificationView-umbrella.h"
-
-  export *
-  module * { export * }
-}

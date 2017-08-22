@@ -1,6 +1,0 @@
-framework module Pods_MyMovieExam {
-  umbrella header "Pods-MyMovieExam-umbrella.h"
-
-  export *
-  module * { export * }
-}
